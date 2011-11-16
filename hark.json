@@ -1,0 +1,22 @@
+{
+	"identifier" : "url",
+	"items" : [
+		{
+			"url" : "word",
+			"label" : {
+			  "en-us" : "Word Hero"
+			},
+			"tags" : {
+			  "en-us" : "word, hero, jumble, anagram"
+			},
+			"description" : {
+			  "en-us" : "Word Hero is a word jumble game where you race against the clock to make as many words as possible from a given set of letters."
+			},
+			"media" : {
+                  "icon" : "",
+				  "screenshots" : []
+            },
+			"attribution" : ""
+		}
+	]
+}
